@@ -1,8 +1,8 @@
 {
+  "homepage": "https://axn-switch.github.io/TaskManagerAssistant/",
   "name": "task-manager-assistant",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://axn-switch.github.io/TaskManagerAssistant/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",

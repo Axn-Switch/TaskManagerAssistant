@@ -8,6 +8,7 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  background-color: #392F5A;
 }
 
 .container {
@@ -25,6 +26,7 @@ body {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 20px;
+  color: white;
 }
 
 .btn {

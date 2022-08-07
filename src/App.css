@@ -83,6 +83,9 @@ body {
 .form-control label {
   display: block;
 }
+span{
+  color: white;
+}
 
 .form-control input {
   width: 100%;
